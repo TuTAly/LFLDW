@@ -72,5 +72,5 @@ Thanks for their sharing.
   doi={10.1109/ICASSP49660.2025.10890047}}
 ```
 
-## Suggestions are welcome! If the code is hard to read, we are sorry about it because of limited time and reserchers. Please contact us and ask us in issue. Please help us to make codes and tutorials better to read.
+## Suggestions are welcome! If the code is hard to read, we are sorry about it. Please contact us and ask us in issue. Please help us to make codes and tutorials better to read.
 
